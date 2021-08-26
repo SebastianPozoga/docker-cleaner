@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 
 # Run every 2 hours at 46 mins past the hour per default if no second argument is given
